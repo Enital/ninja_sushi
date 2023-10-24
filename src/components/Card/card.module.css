@@ -1,6 +1,108 @@
 .card {
+  /* position: relative; */
   height: 596px;
   width: 379px;
-  border: 1px solid black;
+  border: 1px solid red;
   padding: 24px;
+}
+
+.imgBlock {
+  position: relative;
+}
+
+.hit {
+  position: absolute;
+  top: 0;
+  color: #F63;
+  /* font-feature-settings: 'clig'off, 'liga'off; */
+  /* font-family: Inter; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  background-color: rgba(251, 220, 213, 1);
+  border-radius: 8px;
+  padding: 6px 10px;
+}
+
+.new {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  color: #00CC2D;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  background-color: rgba(204, 245, 213, 1);
+  border-radius: 8px;
+  padding: 6px 10px;
+}
+
+.img {
+  width: 331px;
+  height: 290px;
+}
+
+.spices {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.lactoseFree {
+  position: relative;
+}
+
+.lactoseFree, .not {
+  position: absolute;
+}
+
+.bottomLine {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+
+}
+
+.price {
+  color: #1D1D1F;
+  /* font-family: Inter; */
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.currency {
+  color: #686870;
+  /* font-family: Inter; */
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.heart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  width: 48px;
+  background-color: rgba(245, 245, 247, 1);
+  border-radius: 12px;
+}
+
+.addButton {
+  height: 48px;
+  width: 76px;
+  background-color: rgba(204, 245, 213, 1);
+  border: none;
+  border-radius: 12px;
 }
