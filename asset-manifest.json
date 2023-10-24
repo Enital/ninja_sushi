@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ninja_sushi/static/css/main.7acaea2f.css",
-    "main.js": "/ninja_sushi/static/js/main.6a8749df.js",
+    "main.js": "/ninja_sushi/static/js/main.d3beba2d.js",
     "index.html": "/ninja_sushi/index.html",
     "main.7acaea2f.css.map": "/ninja_sushi/static/css/main.7acaea2f.css.map",
-    "main.6a8749df.js.map": "/ninja_sushi/static/js/main.6a8749df.js.map"
+    "main.d3beba2d.js.map": "/ninja_sushi/static/js/main.d3beba2d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.6a8749df.js"
+    "static/js/main.d3beba2d.js"
   ]
 }
