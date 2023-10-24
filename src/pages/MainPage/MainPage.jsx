@@ -1,3 +1,10 @@
+import Card from 'components/Card/Card';
+
 export default function MainPage() {
-  return <h1>MainPage</h1>;
+  return (
+    <div>
+      <h1>MainPage</h1>
+      <Card />
+    </div>
+  );
 }
