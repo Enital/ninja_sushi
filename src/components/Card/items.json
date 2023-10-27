@@ -1,182 +1,169 @@
 [
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.pngl",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+  "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
   },
   {
-    "img": "https://depositphotos.com/ua/photo/sushi-asian-cuisine-138228660.html",
+    "img": "https://res.cloudinary.com/dzrstab0k/image/upload/v1698428686/sushi_otfaft.png",
     "name": "Гункан лосось",
     "price": 190,
     "weight": 40,
     "hit": true,
     "new": false,
     "favorite": false,
-    "compound": "Нори, рис, японский майонез, бальзамик, трюфельная сальса, кунжутное
-        масло",
+    "compound": ["Нори", "рис", "японский майонез", "бальзамик", "трюфельная сальса", "кунжутное масло"],
     "chili": true,
     "spicy": false,
     "lactose": false
