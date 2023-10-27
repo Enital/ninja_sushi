@@ -5,7 +5,6 @@ import chilli from '../../images/icons/chilli.svg';
 import nature from '../../images/icons/nature.svg';
 import lactoseFree from '../../images/icons/lactoseFree.svg';
 import not from '../../images/icons/not.svg';
-// import { CiHeart } from 'react-icons/ci';
 import css from './card.module.css';
 
 export default function Card() {
