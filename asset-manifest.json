@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ninja_sushi/static/css/main.6a38c8ef.css",
-    "main.js": "/ninja_sushi/static/js/main.722352f8.js",
+    "main.js": "/ninja_sushi/static/js/main.66ccee48.js",
     "static/media/sushi.png": "/ninja_sushi/static/media/sushi.6b729978cf083f5f6f89.png",
     "static/media/heart.svg": "/ninja_sushi/static/media/heart.bfed429fc98a615266d6811238531725.svg",
     "static/media/lactoseFree.svg": "/ninja_sushi/static/media/lactoseFree.fe84eee6a4922c528e7fba965ea28a9e.svg",
@@ -11,10 +11,10 @@
     "static/media/plus.svg": "/ninja_sushi/static/media/plus.691ba8b999b18d14e3701d5564cdec94.svg",
     "static/media/not.svg": "/ninja_sushi/static/media/not.92141880e125b13d952ee8bcb2b997b6.svg",
     "main.6a38c8ef.css.map": "/ninja_sushi/static/css/main.6a38c8ef.css.map",
-    "main.722352f8.js.map": "/ninja_sushi/static/js/main.722352f8.js.map"
+    "main.66ccee48.js.map": "/ninja_sushi/static/js/main.66ccee48.js.map"
   },
   "entrypoints": [
     "static/css/main.6a38c8ef.css",
-    "static/js/main.722352f8.js"
+    "static/js/main.66ccee48.js"
   ]
 }
