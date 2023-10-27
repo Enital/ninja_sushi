@@ -8,7 +8,7 @@ import not from '../../images/icons/not.svg';
 import css from './card.module.css';
 
 export default function Card(item) {
-  const isHit = true;
+  const isHit = item.hit;
   const isNew = true;
   const isChili = true;
   const isNature = true;
@@ -17,7 +17,7 @@ export default function Card(item) {
   return (
     <div className={css.card}>
       <div className={css.imgBlock}>
-        {item.hit && <p className={css.hit}>Hit</p>}
+        {isHit && <p className={css.hit}>Hit</p>}
         {isNew && <p className={css.new}>New</p>}
 
         <img
