@@ -1,4 +1,3 @@
-import img from '../../images/sushi.png';
 import heart from '../../images/icons/heart.svg';
 import plus from '../../images/icons/plus.svg';
 import chilli from '../../images/icons/chilli.svg';
@@ -18,10 +17,16 @@ export default function Card(item) {
   return (
     <div className={css.card}>
       <div className={css.imgBlock}>
-        {isHit && <p className={css.hit}>Hit</p>}
+        {item.hit && <p className={css.hit}>Hit</p>}
         {isNew && <p className={css.new}>New</p>}
 
-        <img src={img} alt="sushi" className={css.img} />
+        <img
+          src={item.img}
+          alt="sushi"
+          className={css.img}
+          height={200}
+          width={200}
+        />
 
         <ul className={css.spices}>
           {isChili && (
