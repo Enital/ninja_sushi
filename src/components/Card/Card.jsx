@@ -11,7 +11,7 @@ import css from './card.module.css';
 export default function Card() {
   const isHit = true;
   const isNew = true;
-  const isChilli = true;
+  const isChili = true;
   const isNature = true;
   const isLactoseFree = true;
   return (
@@ -23,7 +23,7 @@ export default function Card() {
         <img src={img} alt="sushi" className={css.img} />
 
         <ul className={css.spices}>
-          {isChilli && (
+          {isChili && (
             <li className={css.chilli}>
               <img src={chilli} alt="" />
             </li>
