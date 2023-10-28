@@ -11,8 +11,6 @@ export const App = () => {
         <Route path="categories" element={<CategoriesPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>
-
-      {/* <MainPage /> */}
     </Routes>
   );
 };
