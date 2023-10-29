@@ -1,3 +1,8 @@
 .main {
+  display: flex;
+  /* justify-content: center; */
+  margin: 0 auto;
+  flex-direction: column;
   background-color: #F5F5F7;
+  width: 1576px;
 }
