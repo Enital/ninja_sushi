@@ -10,13 +10,45 @@ import css from './foodCategories.module.css';
 export default function FoodCategories() {
   return (
     <div className={css.foodCategories}>
-      <h2 className={css.title}>Суши</h2>
+      <ul className={css.titleLine}>
+        <li>
+          <h2 className={css.title}>Суши</h2>
+        </li>
+        <li>
+          <button className={css.button}>Смотреть все</button>
+        </li>
+      </ul>
+
       <Category items={sushi} />
-      <h2>Роллы</h2>
+      <ul>
+        <li>
+          <h2>Роллы</h2>
+        </li>
+        <li>
+          <button className={css.button}>Смотреть все</button>
+        </li>
+      </ul>
+
       <Category items={rolls} />
-      <h2>Сеты</h2>
+      <ul>
+        <li>
+          <h2>Сеты</h2>
+        </li>
+        <li>
+          <button className={css.button}>Смотреть все</button>
+        </li>
+      </ul>
+
       <Category items={sets} />
-      <h2>Закуски</h2>
+      <ul>
+        <li>
+          <h2>Закуски</h2>
+        </li>
+        <li>
+          <button className={css.button}>Смотреть все</button>
+        </li>
+      </ul>
+
       <Category items={snacks} />
     </div>
   );
