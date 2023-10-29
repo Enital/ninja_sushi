@@ -10,7 +10,7 @@ import css from './foodCategories.module.css';
 export default function FoodCategories() {
   return (
     <div className={css.foodCategories}>
-      <h2>Суши</h2>
+      <h2 className={css.title}>Суши</h2>
       <Category items={sushi} />
       <h2>Роллы</h2>
       <Category items={rolls} />
