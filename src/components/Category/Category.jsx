@@ -1,12 +1,13 @@
 import Card from 'components/Card/Card';
-import items from './items.json';
 
-import css from './foodCategories.module.css';
-export default function FoodCategories() {
-  console.log(items);
+import css from './category.module.css';
+export default function Category(items) {
+  const data = items.items;
+  console.log(data);
+
   return (
-    <div className={css.foodCategories}>
-      {items.map(item => (
+    <div className={css.category}>
+      {data.map(item => (
         <Card key={item.id} item={item} />
       ))}
     </div>
