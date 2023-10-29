@@ -8,25 +8,21 @@ import not from '../../images/icons/not.svg';
 import css from './card.module.css';
 
 export default function Card(item) {
-  const isHit = item.hit;
-  const isNew = true;
-  const isChili = true;
-  const isNature = true;
+  const data = item.item;
+  const isHit = data.hit;
+  const isNew = data.new;
+  const isChili = data.chili;
+  const isNature = data.spicy;
   const isLactoseFree = true;
-  console.log(item);
+  console.log(data);
+  // console.log(item.new);
   return (
     <div className={css.card}>
       <div className={css.imgBlock}>
         {isHit && <p className={css.hit}>Hit</p>}
         {isNew && <p className={css.new}>New</p>}
 
-        <img
-          src={item.img}
-          alt="sushi"
-          className={css.img}
-          // height={200}
-          // width={200}
-        />
+        <img src={data.img} alt="sushi" className={css.img} />
 
         <ul className={css.spices}>
           {isChili && (
