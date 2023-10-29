@@ -3,7 +3,6 @@ import plus from '../../images/icons/plus.svg';
 import chilli from '../../images/icons/chilli.svg';
 import nature from '../../images/icons/nature.svg';
 import lactose from '../../images/icons/lactose.svg';
-// import not from '../../images/icons/not.svg';
 
 import css from './card.module.css';
 
@@ -12,8 +11,8 @@ export default function Card(item) {
   const isHit = data.hit;
   const isNew = data.new;
   const isChili = data.chili;
-  const isNature = true;
-  // const isNature = data.spicy;
+  // const isNature = true;
+  const isNature = data.spicy;
   const isLactoseFree = true;
   console.log(data);
   // console.log(item.new);
