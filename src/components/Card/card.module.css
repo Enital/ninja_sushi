@@ -4,6 +4,8 @@
   width: 379px;
   border: 1px solid red;
   padding: 24px;
+  background-color: #fff;
+  border-radius: 12px;
 }
 
 .imgBlock {

@@ -24,8 +24,8 @@ export default function Card(item) {
           src={item.img}
           alt="sushi"
           className={css.img}
-          height={200}
-          width={200}
+          // height={200}
+          // width={200}
         />
 
         <ul className={css.spices}>
