@@ -1,6 +1,19 @@
 .bar {
-  height: 48px;
-  width: 784px;
+  height: 95px;
+  width: 816px;
   border-radius: 12px;
   background-color: #FFF;
+
+}
+
+.barList {
+  display: flex;
+  flex-direction: row;
+  /* padding: 6px 16px; */
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
 }
