@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ninja_sushi/static/css/main.23a9e94f.css",
-    "main.js": "/ninja_sushi/static/js/main.e0383ea1.js",
+    "main.css": "/ninja_sushi/static/css/main.ae8d836c.css",
+    "main.js": "/ninja_sushi/static/js/main.0ace64c4.js",
     "static/media/heart.svg": "/ninja_sushi/static/media/heart.bfed429fc98a615266d6811238531725.svg",
     "static/media/lactose.svg": "/ninja_sushi/static/media/lactose.2838c68ecf0282f632a691dc101ca8ca.svg",
     "static/media/chilli.svg": "/ninja_sushi/static/media/chilli.9163c142d15b169559ceb0bbdecf99c7.svg",
     "static/media/nature.svg": "/ninja_sushi/static/media/nature.8952d91131abdc0277a9d1d64e6277a0.svg",
     "index.html": "/ninja_sushi/index.html",
     "static/media/plus.svg": "/ninja_sushi/static/media/plus.691ba8b999b18d14e3701d5564cdec94.svg",
-    "main.23a9e94f.css.map": "/ninja_sushi/static/css/main.23a9e94f.css.map",
-    "main.e0383ea1.js.map": "/ninja_sushi/static/js/main.e0383ea1.js.map"
+    "main.ae8d836c.css.map": "/ninja_sushi/static/css/main.ae8d836c.css.map",
+    "main.0ace64c4.js.map": "/ninja_sushi/static/js/main.0ace64c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.23a9e94f.css",
-    "static/js/main.e0383ea1.js"
+    "static/css/main.ae8d836c.css",
+    "static/js/main.0ace64c4.js"
   ]
 }
