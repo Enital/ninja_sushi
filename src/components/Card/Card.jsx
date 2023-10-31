@@ -14,7 +14,7 @@ export default function Card(item) {
   // const isNature = true;
   const isNature = data.spicy;
   const isLactoseFree = true;
-  console.log(data);
+  // console.log(data);
   // console.log(item.new);
   return (
     <div className={css.card}>
@@ -25,7 +25,6 @@ export default function Card(item) {
         </ul>
 
         <img src={data.img} alt="sushi" className={css.img} />
-
         <ul className={css.spices}>
           {isChili && (
             <li className={css.chilli}>
