@@ -11,7 +11,6 @@ export default function Card(item) {
   const isHit = data.hit;
   const isNew = data.new;
   const isChili = data.chili;
-  // const isNature = true;
   const isNature = data.spicy;
   const isLactoseFree = true;
   // console.log(data);
