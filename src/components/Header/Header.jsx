@@ -1,3 +1,4 @@
+import bell from '../../images/icons/bell.svg';
 export default function Header() {
   return (
     <div className={css.header}>
@@ -19,7 +20,19 @@ export default function Header() {
       </ul>
       <ul>
         <li>
-          <img src="" alt="" />
+          <button>
+            <img src={bell} alt="" />
+          </button>
+          <button>
+            <img src={bell} alt="" />
+          </button>
+          <button>
+            <img src={bell} alt="" />
+          </button>
+          <button className={css.cartButton}>
+            <p>Корзина</p>
+            <img src={bell} alt="" />
+          </button>
         </li>
       </ul>
     </div>
