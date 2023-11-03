@@ -21,22 +21,22 @@ export default function Header() {
         </li>
       </ul>
       <ul className={css.headerList}>
-        <li>
+        <li className={css.headerListButtons}>
           <button>
             <img src={bell} alt="" />
           </button>
         </li>
-        <li>
+        <li className={css.headerListButtons}>
           <button>
             <img src={bell} alt="" />
           </button>
         </li>
-        <li>
+        <li className={css.headerListButtons}>
           <button>
             <img src={bell} alt="" />
           </button>
         </li>
-        <li>
+        <li className={css.headerListButtons}>
           <button className={css.cartButton}>
             <p>Корзина</p>
             <img src={bell} alt="" />
