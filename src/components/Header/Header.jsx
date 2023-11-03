@@ -15,7 +15,7 @@ export default function Header() {
         <li>Доставка</li>
         <li>О нас</li>
         <li>Новости</li>
-        <li>
+        <li className={css.telephone}>
           <p>tel</p>
           <p>+380 00 000 00 00</p>
         </li>
