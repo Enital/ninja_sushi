@@ -5,3 +5,25 @@
   flex-direction: row;
   background-color: #FFF;
 }
+
+.headerList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+}
+
+.cartButton, .telephone {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+button {
+  border: none;
+  border-radius: 12px;
+  border: 1px solid #D2D2D7;
+}
