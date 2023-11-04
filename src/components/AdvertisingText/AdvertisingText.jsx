@@ -1,6 +1,7 @@
+import css from './advertisingText.module.css';
 export default function AdvertisingText() {
   return (
-    <div>
+    <div className={css.advertisingText}>
       <p>
         В Сети полно всевозможных сервисов учета, начиная от учета времени или
         калорий, заканчивая учетом финансов. А вот сервиса учета инструментов до
