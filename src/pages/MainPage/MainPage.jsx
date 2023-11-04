@@ -1,3 +1,4 @@
+import AdvertisingText from 'components/AdvertisingText/AdvertisingText';
 import CategoryBar from 'components/CategoryBar/CategoryBar';
 import FoodCategories from 'components/FoodCategories/FoodCategories';
 import Footer from 'components/Footer/Footer';
@@ -8,6 +9,7 @@ export default function MainPage() {
     <div className={css.main}>
       <CategoryBar />
       <FoodCategories />
+      <AdvertisingText />
       <Footer />
     </div>
   );
