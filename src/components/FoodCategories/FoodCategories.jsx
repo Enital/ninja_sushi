@@ -22,7 +22,7 @@ export default function FoodCategories() {
       <Category items={sushi} />
       <ul className={css.titleLine}>
         <li>
-          <h2>Роллы</h2>
+          <h2 className={css.title}>Роллы</h2>
         </li>
         <li>
           <button className={css.button}>Смотреть все</button>
@@ -32,7 +32,7 @@ export default function FoodCategories() {
       <Category items={rolls} />
       <ul className={css.titleLine}>
         <li>
-          <h2>Сеты</h2>
+          <h2 className={css.title}>Сеты</h2>
         </li>
         <li>
           <button className={css.button}>Смотреть все</button>
@@ -42,7 +42,7 @@ export default function FoodCategories() {
       <Category items={sets} />
       <ul className={css.titleLine}>
         <li>
-          <h2>Закуски</h2>
+          <h2 className={css.title}>Закуски</h2>
         </li>
         <li>
           <button className={css.button}>Смотреть все</button>
