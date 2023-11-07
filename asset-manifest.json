@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ninja_sushi/static/css/main.2f5f8e27.css",
-    "main.js": "/ninja_sushi/static/js/main.31de0046.js",
+    "main.js": "/ninja_sushi/static/js/main.567c9b2c.js",
     "static/media/roll.svg": "/ninja_sushi/static/media/roll.d9088b288986d3bdb7a2df22c892a98c.svg",
     "static/media/heart.svg": "/ninja_sushi/static/media/heart.bfed429fc98a615266d6811238531725.svg",
     "static/media/bell.svg": "/ninja_sushi/static/media/bell.06927658044577bd27817b79d2b80eee.svg",
@@ -11,10 +11,10 @@
     "index.html": "/ninja_sushi/index.html",
     "static/media/plus.svg": "/ninja_sushi/static/media/plus.691ba8b999b18d14e3701d5564cdec94.svg",
     "main.2f5f8e27.css.map": "/ninja_sushi/static/css/main.2f5f8e27.css.map",
-    "main.31de0046.js.map": "/ninja_sushi/static/js/main.31de0046.js.map"
+    "main.567c9b2c.js.map": "/ninja_sushi/static/js/main.567c9b2c.js.map"
   },
   "entrypoints": [
     "static/css/main.2f5f8e27.css",
-    "static/js/main.31de0046.js"
+    "static/js/main.567c9b2c.js"
   ]
 }
