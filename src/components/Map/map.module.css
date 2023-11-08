@@ -6,8 +6,8 @@
 
 .mapTitle {
   height: 148px;
-  /* width: 1246px; */
-  width: 1200px;
+  width: 1246px;
+  /* width: 1200px; */
   text-align: center;
   margin: 0 auto;
   font-family: Inter;
@@ -15,4 +15,19 @@
   font-style: normal;
   font-weight: 700;
   line-height: 64px;
+}
+
+.green {
+  background-color: rgb(93, 241, 125);
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.yellow {
+  background-color: rgb(255, 255, 0);
+}
+
+.red {
+  background-color: rgb(255, 0, 0);
 }
