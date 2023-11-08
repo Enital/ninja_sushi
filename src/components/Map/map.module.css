@@ -3,3 +3,16 @@
   height: 671px;
   background-color: rgb(93, 241, 125);
 }
+
+.mapTitle {
+  height: 148px;
+  /* width: 1246px; */
+  width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 64px;
+}
